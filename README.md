@@ -1,5 +1,5 @@
-# Sprint 2 — Local Setup (paste into your repo's README)
-
+# BookNest — Books & Digital Media E-Commerce
+ Sprint-by-sprint build for the E-Commerce SDLC course project.
 ## What's in this drop
 - 5 migrations (`role` on users, categories, products, variants, skus)
 - Models: `Category`, `Product`, `Variant`, `Sku`, updated `User`
